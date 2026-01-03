@@ -80,7 +80,6 @@ project.fragment.lock.json
 artifacts/
 
 # Deployment/publish folders
-deployment/
 publish/
 *.zip
 
